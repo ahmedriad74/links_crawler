@@ -3,7 +3,8 @@
 ## Install Scray
 pip install scrapy
 
-## Git CLone
+## Git Clone
+git clone this path
 
 ## Execute command
 scrapy crawl links
