@@ -1,6 +1,6 @@
 # links_crawler
 
-## Install Scray
+## Install Scrapy
 pip install scrapy
 
 ## Git Clone
